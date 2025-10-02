@@ -13,19 +13,19 @@ Python版とJava版があります
 ### Python版：janken.py
 1. ターミナル(またはコマンドプロンプト)でフォルダに移動
 2. 以下を実行
-```
-Python janken.py
-```
+   ```
+   Python janken.py
+   ```
 ### Java版：janken.java
 1. ターミナル(またはコマンドプロンプト)で移動
 2. コンパイル
-```
-Javac Janken.Java
-```
+   ```
+   Javac Janken.Java
+   ```
 3. 実行
-```
-Java janken
-```
+   ```
+   Java janken
+   ```
 ## 遊び方
 1. プログラムを実行すると、手の選択肢が表示されます。
 2. 数字で手を入力します：
